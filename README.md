@@ -17,7 +17,8 @@ Each folder represents exercises completed in a specific session.
 ### 🔹 BT_Buoi02  
 **Loops and conditional statements**
 
-### 🔹 (More coming soon...)  
+### 🔹 BT_Buoi04  
+**Functions (Methods) in C# – parameter passing, return values, and modular programming**
 
 ---
 
@@ -25,6 +26,8 @@ Each folder represents exercises completed in a specific session.
 
 - ✅ Practice C# fundamentals  
 - ✅ Understand OOP concepts  
+- ✅ Improve problem-solving skills  
+- ✅ Write clean and modular code  
 - ✅ Prepare for backend development  
 
 ---
