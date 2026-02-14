@@ -1,74 +1,47 @@
-\# 🚀 BootCamp .NET Journey
-
-
+# 🚀 BootCamp .NET Journey
 
 ---
 
+## 📌 About This Repository
 
-
-\# 📚 Repository Overview
-
-
-
-This repository contains all my practice exercises during the .NET Bootcamp.
-
-
+This repository contains my practice exercises during the .NET Bootcamp program.  
+Each folder represents exercises completed in a specific session.
 
 ---
 
+## 📂 Project Structure
 
+### 🔹 BT_Buoi01  
+**Basic C# syntax, variables, data types**
 
-\# 📂 Project Structure
+### 🔹 BT_Buoi02  
+**Loops and conditional statements**
 
-
-
-\- \*\*BT\_Buoi01\*\* – Basic C# syntax, variables, data types  
-
-\- \*\*BT\_Buoi02\*\* – Loops and conditional statements  
-
-
+### 🔹 (More coming soon...)  
 
 ---
 
+## 🎯 Learning Goals
 
-
-\# 🎯 Learning Goals
-
-
-
-\- Master C# fundamentals  
-
-\- Understand OOP deeply  
-
-\- Prepare for backend development  
-
-
+- ✅ Practice C# fundamentals  
+- ✅ Understand OOP concepts  
+- ✅ Prepare for backend development  
 
 ---
 
+## 🛠 Technologies Used
 
-
-\# 🛠 Tech Stack
-
-
-
-\- C#  
-
-\- .NET  
-
-\- Git \& GitHub  
-
-
+- C#  
+- .NET  
+- Git & GitHub  
 
 ---
 
+## 📬 Contact
 
+Connect with me via:  
+**khanhvy0946265560@gmail.com**
 
-\# 📬 Contact
+---
 
-
-
-\*\*khanhvy0946265560@gmail.com\*\*
-
-
-
+© 2026 khanhvy0908
