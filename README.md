@@ -20,6 +20,10 @@ Each folder represents exercises completed in a specific session.
 ### 🔹 BT_Buoi04  
 **Functions (Methods) in C# – parameter passing, return values, and modular programming**
 
+### 🔹 BT_Buoi05  
+**Working with collection types (arrays, dictionaries) and basic algorithm problems**
+
+
 ---
 
 ## 🎯 Learning Goals
@@ -29,6 +33,22 @@ Each folder represents exercises completed in a specific session.
 - ✅ Improve problem-solving skills  
 - ✅ Write clean and modular code  
 - ✅ Prepare for backend development  
+- ✅ Work with collection types (Array, List, Dictionary)
+
+---
+
+## ▶ How to Run
+
+- Clone the repository  
+- Open the solution file in Visual Studio  
+- Build and run the project using **F5** (with debugging) or **Ctrl + F5** (without debugging)
+
+### 💻 Requirements
+- .NET 6.0 SDK or later  
+- Visual Studio 2022 (recommended)
+
+![.NET](https://img.shields.io/badge/.NET-6.0-purple)
+![C#](https://img.shields.io/badge/C%23-Programming-blue)
 
 ---
 
